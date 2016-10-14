@@ -1,0 +1,11 @@
+{
+	"name": "mediawiki/score",
+	"description": "Allows the rendering of musical scores as PNG images using LilyPond.",
+	"homepage": "https://www.mediawiki.org/wiki/Extension:Score",
+	"type": "mediawiki-extension",
+	"license" : "GPL-3.0+",
+	"require": {
+		"php": ">=5.4",
+		"wikimedia/base-convert": ">=1.0"
+	}
+}
